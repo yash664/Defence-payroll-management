@@ -1,0 +1,74 @@
+12
+------------------------------------------
+Officer ID: 3
+Date: 15-01-2022
+Bank account number: 3
+Amount: 25000.0
+Type: Salary
+------------------------------------------
+Officer ID: 4
+Date: 15-01-2022
+Bank account number: 4
+Amount: 25000.0
+Type: Salary
+------------------------------------------
+Officer ID: 5
+Date: 15-01-2022
+Bank account number: 5
+Amount: 30000.0
+Type: Salary
+------------------------------------------
+Officer ID: 6
+Date: 15-01-2022
+Bank account number: 6
+Amount: 30000.0
+Type: Salary
+------------------------------------------
+Officer ID: 7
+Date: 15-01-2022
+Bank account number: 7
+Amount: 35000.0
+Type: Salary
+------------------------------------------
+Officer ID: 8
+Date: 15-01-2022
+Bank account number: 8
+Amount: 35000.0
+Type: Salary
+------------------------------------------
+Officer ID: 9
+Date: 15-01-2022
+Bank account number: 9
+Amount: 0.0
+Type: Pension
+------------------------------------------
+Officer ID: 10
+Date: 15-01-2022
+Bank account number: 10
+Amount: 0.0
+Type: Pension
+------------------------------------------
+Officer ID: 1
+Date: 15-01-2022
+Bank account number: 1
+Amount: 8000.0
+Type: Pension
+------------------------------------------
+Officer ID: 2
+Date: 15-01-2022
+Bank account number: 2
+Amount: 8000.0
+Type: Pension
+------------------------------------------
+Officer ID: 3
+Date: 15-01-2022
+Bank account number: 3
+Amount: 17300.0
+Type: Allowance
+------------------------------------------
+Officer ID: 6
+Date: 15-01-2022
+Bank account number: 6
+Amount: 7000.0
+Type: Award
+------------------------------------------

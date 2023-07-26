@@ -1,0 +1,43 @@
+2
+------------------------------------------
+Name: Ashwin
+ID: 7
+Username: Ashwin_Ravi
+Password: Ashwin1709
+Bank account number: 7
+Bank balance: 265000.0
+Level: 4
+Wing: Navy
+Location: Kochi
+Base salary: 35000.0
+Awards: 
+3
+Name: Nao-Sena-Medal
+Prize money: 2000.0
+Date: 19-03-2008
+Name: Shaurya-Chakra
+Prize money: 6000.0
+Date: 29-03-2012
+Name: Mahavir-Chakra
+Prize money: 10000.0
+Date: 16-09-2016
+------------------------------------------
+Name: Bumrah
+ID: 8
+Username: Bumrah_Jasprit
+Password: bumrah0612
+Bank account number: 8
+Bank balance: 285000.0
+Level: 4
+Wing: Army
+Location: Kashmir
+Base salary: 35000.0
+Awards: 
+2
+Name: Sena-Medal
+Prize money: 2000.0
+Date: 19-03-2014
+Name: Ashoka-Chakra
+Prize money: 12000.0
+Date: 26-10-2019
+------------------------------------------

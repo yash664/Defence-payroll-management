@@ -1,0 +1,59 @@
+3
+------------------------------------------
+Name: Rahane
+ID: 5
+Username: Rahane_Ajjinkya
+Password: rahane0606
+Bank account number: 5
+Bank balance: 230000.0
+Level: 3
+Wing: Army
+Location: Wagah
+Base salary: 30000.0
+Awards: 
+2
+Name: Sena-Medal
+Prize money: 2000.0
+Date: 26-01-2012
+Name: Kriti_Chakra
+Prize money: 9000.0
+Date: 15-08-2016
+------------------------------------------
+Name: Rishabh
+ID: 6
+Username: Rishabh_Pant
+Password: Rishabh0410
+Bank account number: 6
+Bank balance: 227000.0
+Level: 3
+Wing: Air-Force
+Location: Bangalore
+Base salary: 30000.0
+Awards: 
+3
+Name: Sena-Medal
+Prize money: 2000.0
+Date: 26-01-2010
+Name: Vir_Chakra
+Prize money: 7000.0
+Date: 15-09-2016
+Name: Vir-Chakra
+Prize money: 7000.0
+Date: 15-01-2022
+------------------------------------------
+Name: Pujara
+ID: 4
+Username: Pujara
+Password: 4
+Bank account number: 4
+Bank balance: 140000.0
+Level: 3
+Wing: Navy
+Location: Mumbai
+Base salary: 60000.0
+Awards: 
+1
+Name: Nao-Sena-Medal
+Prize money: 2000.0
+Date: 19-03-2017
+------------------------------------------

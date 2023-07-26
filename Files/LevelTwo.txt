@@ -1,0 +1,29 @@
+2
+------------------------------------------
+Name: Mayank
+ID: 3
+Bank account number: 3
+Bank balance: 167300.0
+Level: 2
+Wing: Air-Force
+Location: Shillong
+Base salary: 25000.0
+Awards: 
+2
+Name: Vayu-Sena-Medal
+Prize money: 2000.0
+Date: 13-01-2016
+Name: Vir-Chakra
+Prize money: 7000.0
+Date: 15-01-2021
+------------------------------------------
+Name: Shami
+ID: 11
+Bank account number: 10
+Bank balance: 0.0
+Level: 2
+Wing: Army
+Location: Chennai
+Base salary: 55000.0
+Awards: 
+0
